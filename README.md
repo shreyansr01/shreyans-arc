@@ -50,7 +50,7 @@ Instead of memorizing hundreds of questions, focus on the 8 tools that actually 
 
 ```bash
 # Clone the repository
-git clone https://github.com/ShreyanDev5/shreyans-arc.git
+git clone https://github.com/shreyansr01/shreyans-arc.git
 cd shreyans-arc
 
 # Install dependencies and start dev server
@@ -64,5 +64,5 @@ The app works out of the box using local storage. To enable Google sign-in and c
 
 ## Author
 
-**Shreyan Sardar** · [Portfolio](https://shreyandev.vercel.app) · [GitHub](https://github.com/ShreyanDev5) · [LinkedIn](https://www.linkedin.com/in/shreyansardar/)
+**Shreyan Sardar** · [Portfolio](https://shreyandev.vercel.app) · [GitHub](https://github.com/shreyansr01) · [LinkedIn](https://www.linkedin.com/in/shreyansardar/)
 

@@ -111,7 +111,7 @@ const InfoModal: React.FC<InfoModalProps> = ({ isOpen, onClose }) => {
                             <span className="text-zinc-600 font-mono text-[11px]">/</span>
 
                             <a
-                                href="https://github.com/ShreyanDev5/shreyans-arc"
+                                href="https://github.com/shreyansr01/shreyans-arc"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="inline-flex items-center gap-1.5 text-[#94949f] hover:text-[#ededf0] transition-colors group"
