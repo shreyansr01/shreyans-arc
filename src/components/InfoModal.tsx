@@ -88,7 +88,7 @@ const InfoModal: React.FC<InfoModalProps> = ({ isOpen, onClose }) => {
 
                         <div className="flex items-center gap-2">
                             <a
-                                href="https://shreyandev.vercel.app/"
+                                href="https://shreyansr.vercel.app/"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="inline-flex items-center gap-1 text-[#94949f] hover:text-[#ededf0] transition-colors group"

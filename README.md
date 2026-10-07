@@ -64,5 +64,5 @@ The app works out of the box using local storage. To enable Google sign-in and c
 
 ## Author
 
-**Shreyan Sardar** · [Portfolio](https://shreyandev.vercel.app) · [GitHub](https://github.com/shreyansr01) · [LinkedIn](https://www.linkedin.com/in/shreyansardar/)
+**Shreyan Sardar** · [Portfolio](https://shreyansr.vercel.app/) · [GitHub](https://github.com/shreyansr01) · [LinkedIn](https://www.linkedin.com/in/shreyansardar/)
 
